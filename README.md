@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align:center">
+<p align="center">
   <img src="https://github.com/mdmubin/mdmubin/blob/main/dancing-gunther.gif" alt="Gunther" title="Quack!! Quack!!" width="250" height="250"/>
-</div>
+</p>
